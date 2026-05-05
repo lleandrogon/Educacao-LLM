@@ -10,3 +10,4 @@ streamlit
 ipywidgets
 pypandoc
 pandoc
+python-dotenv
