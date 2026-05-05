@@ -1,0 +1,12 @@
+langchain-groq
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-qdrant
+qdrant_client
+langchain-docling
+ipykernel
+streamlit
+ipywidgets
+pypandoc
+pandoc
