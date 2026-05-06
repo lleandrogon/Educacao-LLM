@@ -11,3 +11,4 @@ ipywidgets
 pypandoc
 pandoc
 python-dotenv
+sentence-transformers
